@@ -1,5 +1,6 @@
 # Artificial Intelligence (AI) Actions
-<p><i>work in progress</i></p>
+<br><i>work in progress</i>
+
 ## Topics
 
 * Login access with SSH (CLI)
