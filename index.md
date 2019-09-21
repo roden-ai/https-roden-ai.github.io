@@ -8,7 +8,7 @@
    * [GCP](https://gist.github.com/realBjornRoden/3f2d63e0654163fbca659830ce9071c2#file-cloudactions-gcp-login-md)
 
 * Using ML and DL NoOps (CLI)
-   * Time Series`
+   * Time Series
       ```
       Time series analysis accounts for the fact that data points taken over time may have an internal structure (such as autocorrelation, trend or seasonal variation) that should be accounted for.
       ```
