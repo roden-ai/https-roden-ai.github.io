@@ -1,5 +1,5 @@
 # Artificial Intelligence (AI) Actions
-<br><i>work in progress</i>
+<i>work in progress</i>
 
 ## Topics
 
