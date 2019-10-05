@@ -16,9 +16,11 @@
    * [GCP](https://gist.github.com/realBjornRoden/3f2d63e0654163fbca659830ce9071c2#file-cloudactions-gcp-login-md)
 
 * Using Cognitive AI NoOps
-   * Vision
-   * Language
+   * Vision Image
+   * Vision Video
+   * Vision Text
    * Audio
+   * Language
    * ...
 
 * Using ML and DL AI
