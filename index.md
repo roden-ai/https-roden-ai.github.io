@@ -20,6 +20,7 @@
       * [AWS](https://gist.github.com/realBjornRoden/3e4974baaf4848928e6d8224adb49bb1#cognitive-actions-vision-image-aws-md)
       * [Azure](https://gist.github.com/realBjornRoden/a4c4f8c99851b9dfb23e70d6fe37d348#cognitive-actions-vision-image-azure-md)
       * [GCP](https://gist.github.com/realBjornRoden/c46242be467066966c0da4c6166b6efa#cognitive-actions-vision-image-gcp-md)
+   * [Face Detection visualization comparision with Cognitive AI](https://github.com/realBjornRoden/cognition/blob/master/amp/)
    * Vision Video
    * Audio
    * Language
