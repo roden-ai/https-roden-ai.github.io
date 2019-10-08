@@ -23,6 +23,8 @@
    * [Face Detection visualization comparision sampling with Cognitive AI](https://github.com/realBjornRoden/cognition/blob/master/amp/)
    * Vision Video
    * Audio
+      * Transcription
+      * Diarization
    * Language
    * ...
 
