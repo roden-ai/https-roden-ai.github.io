@@ -25,6 +25,7 @@
    * Audio
       * Transcription
       * Diarization
+      * Recognition
    * Language
    * ...
 
