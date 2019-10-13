@@ -22,12 +22,12 @@
       * [Microsoft](https://gist.github.com/realBjornRoden/a4c4f8c99851b9dfb23e70d6fe37d348#cognitive-actions-vision-image-azure-md)
       * [Face Detection visualization comparision sampling with Cognitive AI](https://github.com/realBjornRoden/cognition/blob/master/amp/)
    * Audio - Transcription; Diarization; Recognition
-      * Amazon
-      * Google
+      * [Amazon](https://gist.github.com/realBjornRoden/55e1b14a4fd6ecdfc64dbe7e8b95b15e#cognitive-actions-audio-aws-md)
+      * [Google](https://gist.github.com/realBjornRoden/3a2975556b4f3abb606577d87fee4234#cognitive-actions-audio-gcp-md)
       * Microsoft
    * Language - Translation
-      * Amazon
-      * Google
+      * [Amazon](https://gist.github.com/realBjornRoden/0afcfe61247efed998e937af4beb2537#cognitive-actions-language-aws-md)
+      * [Google](https://gist.github.com/realBjornRoden/8a4339299ff2812fd5769eab66fcea8e#cognitive-actions-language-gcp-md)
       * Microsoft
    * Vision Video
 
