@@ -16,18 +16,14 @@
    * [GCP](https://gist.github.com/realBjornRoden/3f2d63e0654163fbca659830ce9071c2#file-cloudactions-gcp-login-md)
 
 * Using Cognitive AI NoOps
-   * Vision Image w/Face Detection & Text OCR
+   * Vision Image - Face Detection & Recognition; Objects & Landmarks; Web references; Text OCR from images & files
       * [AWS](https://gist.github.com/realBjornRoden/3e4974baaf4848928e6d8224adb49bb1#cognitive-actions-vision-image-aws-md)
       * [Azure](https://gist.github.com/realBjornRoden/a4c4f8c99851b9dfb23e70d6fe37d348#cognitive-actions-vision-image-azure-md)
       * [GCP](https://gist.github.com/realBjornRoden/c46242be467066966c0da4c6166b6efa#cognitive-actions-vision-image-gcp-md)
    * [Face Detection visualization comparision sampling with Cognitive AI](https://github.com/realBjornRoden/cognition/blob/master/amp/)
+   * Audio - Transcription; Diarization; Recognition
+   * Language - Translation
    * Vision Video
-   * Audio
-      * Transcription
-      * Diarization
-      * Recognition
-   * Language
-   * ...
 
 * Using ML and DL AI
    * Machine Learning
