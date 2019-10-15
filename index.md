@@ -30,7 +30,7 @@
       * [Google](https://gist.github.com/realBjornRoden/8a4339299ff2812fd5769eab66fcea8e#cognitive-actions-language-gcp-md)
       * Microsoft
    * <strong>Vision Video</strong>
-      * [Amazon](https://gist.github.com/realBjornRoden/76af9b9dd1dfd80339ee5f6f8ac0dc3b.js#cognitive-actions-vision-video-aws-md)
+      * [Amazon](https://gist.github.com/realBjornRoden/76af9b9dd1dfd80339ee5f6f8ac0dc3b#cognitive-actions-vision-video-aws-md)
       * Google
       * Microsoft
 
