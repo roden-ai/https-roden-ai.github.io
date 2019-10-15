@@ -29,7 +29,10 @@
       * [Amazon](https://gist.github.com/realBjornRoden/0afcfe61247efed998e937af4beb2537#cognitive-actions-language-aws-md)
       * [Google](https://gist.github.com/realBjornRoden/8a4339299ff2812fd5769eab66fcea8e#cognitive-actions-language-gcp-md)
       * Microsoft
-   * Vision Video
+   * <strong>Vision Video</strong>
+      * [Amazon](https://gist.github.com/realBjornRoden/76af9b9dd1dfd80339ee5f6f8ac0dc3b.js#cognitive-actions-vision-video-aws-md)
+      * Google
+      * Microsoft
 
 * Using ML and DL AI
    * Machine Learning
